@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fdcsbrv
 -  ⚛ 🔬 I'm a MSc graduate in Engineering Physics
-- 👀 I’m interested in condensed matter physics
-- 🌱 I’m currently learning (or at least trying to broaden my horizons in) simulations of physical models
+- 👀 I’m interested in condensed matter physics and mathematical models of physical systems.
+- 🌱 I’m currently learning (or at least trying to broaden my horizons in) simulations of physical models.
 - 📫 How to reach me ... tbd
 - 👨‍💻 The programming languages I know are: C/C++, MATLAB and a bit of Python.
 - 📚 The languages I speak are: Italian (mother tongue), German (Abitur) and English (C1).
